@@ -69,7 +69,7 @@ fn ceaser_cipher(content: &str) {
                     'X' => 23,
                     'Y' => 24,
                     'Z' => 25,
-                    //For infinity matching
+                    //For infinite matching
                     '\0'..='@' | '['..='\u{d7ff}' | '\u{e000}'..='\u{10ffff}' => todo!(),
                 };
 
