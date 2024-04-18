@@ -1,5 +1,5 @@
 /* This program is used to encrypt a give file.
-Author: Aleken Triumph
+Author: Darkcrypt
 Note: I was a learner when doing this so if there is any upgrade to be made please do*/
 
 use std::env; //This is to collect the file name as an argument when running the code
